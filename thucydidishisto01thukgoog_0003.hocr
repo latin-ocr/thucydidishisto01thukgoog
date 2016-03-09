@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./thucydidishisto01thukgoog/thucydidishisto01thukgoog_0003.png"; bbox 0 0 1196 1694; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 220 86 267 110">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 220 86 267 110">
+     <span class='ocr_line' id='line_1_1' title="bbox 220 86 267 110; baseline 0.043 -2"><span class='ocrx_word' id='word_1_1' title='bbox 220 86 267 110; x_wconf 67' lang='lat'>(2¹</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 348 86 456 105">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 348 86 456 105">
+     <span class='ocr_line' id='line_1_2' title="bbox 348 86 456 105; baseline 0.019 -2"><span class='ocrx_word' id='word_1_2' title='bbox 348 86 380 105; x_wconf 60' lang='grc' dir='ltr'>ἃ,</span> <span class='ocrx_word' id='word_1_3' title='bbox 400 86 456 105; x_wconf 50' lang='lat' dir='ltr'>*sb</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 443 972 692 1112">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 443 972 692 1112">
+     <span class='ocr_line' id='line_1_3' title="bbox 443 972 692 1006; baseline 0.004 -1"><span class='ocrx_word' id='word_1_4' title='bbox 443 972 692 1006; x_wconf 91' lang='lat' dir='ltr'>HARVARD</span> 
+     </span>
+     <span class='ocr_line' id='line_1_4' title="bbox 443 1027 690 1059; baseline 0.004 -1"><span class='ocrx_word' id='word_1_5' title='bbox 443 1027 690 1059; x_wconf 90' lang='lat' dir='ltr'><strong>COLLEGE</strong></span> 
+     </span>
+     <span class='ocr_line' id='line_1_5' title="bbox 445 1080 690 1112; baseline 0.004 -1"><span class='ocrx_word' id='word_1_6' title='bbox 445 1080 690 1112; x_wconf 92' lang='lat' dir='ltr'>LIBRARY</span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
